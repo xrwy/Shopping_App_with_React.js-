@@ -1,0 +1,46 @@
+.error-404 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 6vw;
+    animation-name: errorTextAnimation;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    font-family: "Righteous", cursive;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    max-width: 800px;
+    text-align: center;
+}
+  
+@for $i from 1 through 4 {
+    .error-404:nth-of-type(#{$i}) {
+        animation-duration: 2s;
+        animation-delay: 0.8s - ($i / 4);
+    }
+}
+  
+@keyframes errorTextAnimation {
+    40%,
+    50% {
+      transform: translate(-50%, -65%) scale(1.05);
+    }
+    0%,
+    90%,
+    100% {
+      transform: translate(-50%, -45%) scale(0.95);
+    }
+}
+
+@media screen and (max-width:571px) {
+    .error-404 {
+        font-size: 6vw;
+    }
+}
+@media screen and (max-width:250px) {
+    .error-404 {
+        font-size: 8vw;
+        line-height: 1rem;
+    }
+}

@@ -1,0 +1,6 @@
+@media screen and (max-width:152px) {
+    footer div.px-4 {
+        padding-left: 0.6rem  !important;
+        padding-right: 0.6rem !important;
+    }
+}

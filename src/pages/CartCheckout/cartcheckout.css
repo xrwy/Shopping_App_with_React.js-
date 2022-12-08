@@ -1,0 +1,16 @@
+@media screen and (max-width:774px) {
+    div.cards {
+        justify-content: start;
+    }
+    span.after-ml-0 {
+        margin-left: 0;
+    }
+}
+@media screen and (max-width:174px) {
+    div.after-px-2 {
+        padding: 1rem !important;
+    }
+    div.after-p-3 {
+        padding: 1rem !important;
+    }
+}

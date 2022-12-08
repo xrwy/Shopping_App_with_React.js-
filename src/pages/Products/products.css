@@ -1,0 +1,16 @@
+@media screen and (max-width:768px) {
+    .repeat-4 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+@media screen and (max-width:571px) {
+    .repeat-4 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+}
+@media screen and (max-width:571px) {
+    .repeat-4.px-8 {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

@@ -1,0 +1,21 @@
+.overText{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+@media screen and (max-width:200px) {
+    button.fontVw {
+        font-size: 6vw;
+        width: 100%;
+    }
+    div.after-p-0 {
+        padding: 0.5rem;
+    }
+}
+img.hover-effect {
+    transition: transform 1s;
+}
+img.hover-effect:hover {
+    transition: 1s;
+    transform: scale(1.1);
+}

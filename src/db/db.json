@@ -1,0 +1,1158 @@
+{
+    "products":[
+        {
+            "id":1,
+            "product_image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "product_title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "product_description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "product_price":200.25,
+            "product_Reviews":150,
+            "product_star":3.5,
+            "product_count":0
+        },
+        {
+            "id":2,
+            "product_image":"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "product_title":"MENS CASUAL PREMIUM SLIM FIT T-SHIRTS",
+            "product_description":"Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "product_price":100.20,
+            "product_Reviews":190,
+            "product_star":2.5,
+            "product_count":0
+        },
+        {
+            "id":3,
+            "product_image":"https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "product_title":"MENS COTTON JACKET",
+            "product_description":"Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "product_price":80.54,
+            "product_Reviews":100,
+            "product_star":4.1,
+            "product_count":0
+        },
+        {
+            "id":4,
+            "product_image":"https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "product_title":"Mens Casual Slim Fit",
+            "product_description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "product_price":100,
+            "product_Reviews":120,
+            "product_star":4.5,
+            "product_count":0
+        },
+        {
+            "id":5,
+            "product_image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "product_title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "product_description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "product_price":400.00,
+            "product_Reviews":250,
+            "product_star":3.5,
+            "product_count":0
+        },
+        {
+            "id":6,
+            "product_image":"https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "product_title":"SOLID GOLD PETITE MICROPAVE",
+            "product_description":"Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "product_price":240.75,
+            "product_Reviews":145,
+            "product_star":5.7,
+            "product_count":0
+        },
+        {
+            "id":7,
+            "product_image":"https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "product_title":"WHITE GOLD PLATED PRINCESS",
+            "product_description":"Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "product_price":100,
+            "product_Reviews":150,
+            "product_star":4.5,
+            "product_count":0
+        },
+        {
+            "id":8,
+            "product_image":"https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "product_title":"Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "product_description":"Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "product_price":200.12,
+            "product_Reviews":150,
+            "product_star":4.5,
+            "product_count":0
+        },
+        {
+            "id":9,
+            "product_image":"https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "product_title":"WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+            "product_description":"USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "product_price":1000,
+            "product_Reviews":870,
+            "product_star":8.5,
+            "product_count":0
+        },
+        {
+            "id":10,
+            "product_image":"https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "product_title":"SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "product_description":"Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "product_price":350,
+            "product_Reviews":210,
+            "product_star":5.9,
+            "product_count":0
+        },
+        {
+            "id":11,
+            "product_image":"https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "product_title":"Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "product_description":"3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "product_price":410.60,
+            "product_Reviews":400,
+            "product_star":6.5,
+            "product_count":0
+        },
+        {
+            "id":12,
+            "product_image":"https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "product_title":"WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "product_description":"Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "product_price":900.50,
+            "product_Reviews":800,
+            "product_star":8.2,
+            "product_count":0
+        },
+        {
+            "id":13,
+            "product_image":"https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "product_title":"Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "product_description":"21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "product_price":250.99,
+            "product_Reviews":340,
+            "product_star":4.5,
+            "product_count":0
+        },
+        {
+            "id":14,
+            "product_image":"https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "product_title":"Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+            "product_description":"49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "product_price":750,
+            "product_Reviews":260,
+            "product_star":6.5,
+            "product_count":0
+        },
+        {
+            "id":15,
+            "product_image":"https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "product_title":"BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "product_description":"Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "product_price":70078,
+            "product_Reviews":658,
+            "product_star":8.5,
+            "product_count":0
+        },
+        {
+            "id":16,
+            "product_image":"https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "product_title":"Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "product_description":"100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "product_price":200.10,
+            "product_Reviews":160,
+            "product_star":3.5,
+            "product_count":0
+        },
+        {
+            "id":17,
+            "product_image":"https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "product_title":"Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "product_description":"Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "product_price":600.75,
+            "product_Reviews":470,
+            "product_star":7.5,
+            "product_count":0
+        },
+        {
+            "id":18,
+            "product_image":"https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "product_title":"MBJ Women's Solid Short Sleeve Boat Neck V ",
+            "product_description":"95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "product_price":123,
+            "product_Reviews":274,
+            "product_star":4.9,
+            "product_count":0
+        },
+        {
+            "id":19,
+            "product_image":"https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "product_title":"Opna Women's Short Sleeve Moisture",
+            "product_description":"100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "product_price":100.20,
+            "product_Reviews":171,
+            "product_star":4.5,
+            "product_count":0
+        },
+        {
+            "id":20,
+            "product_image":"https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "product_title":"DANVOUY Womens T Shirt Casual Cotton Short",
+            "product_description":"95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "product_price":400.90,
+            "product_Reviews":270,
+            "product_star":4.9,
+            "product_count":0
+        }
+    ],
+    "countries":[
+        {
+            "iso_code": "ZA",
+            "country": "África do Sul"
+        },
+        {
+            "iso_code": "AT",
+            "country": "Áustria"
+        },
+        {
+            "iso_code": "IN",
+            "country": "Índia"
+        },
+        {
+            "iso_code": "AF",
+            "country": "Afeganistão"
+        },
+        {
+            "iso_code": "AL",
+            "country": "Albânia"
+        },
+        {
+            "iso_code": "DE",
+            "country": "Alemanha"
+        },
+        {
+            "iso_code": "AD",
+            "country": "Andorra"
+        },
+        {
+            "iso_code": "AO",
+            "country": "Angola"
+        },
+        {
+            "iso_code": "AI",
+            "country": "Anguila"
+        },
+        {
+            "iso_code": "AQ",
+            "country": "Antárctida"
+        },
+        {
+            "iso_code": "AG",
+            "country": "Antígua e Barbuda"
+        },
+        {
+            "iso_code": "AN",
+            "country": "Antilhas Neerlandesas"
+        },
+        {
+            "iso_code": "SA",
+            "country": "Arábia Saudita"
+        },
+        {
+            "iso_code": "DZ",
+            "country": "Argélia"
+        },
+        {
+            "iso_code": "AR",
+            "country": "Argentina"
+        },
+        {
+            "iso_code": "AM",
+            "country": "Arménia"
+        },
+        {
+            "iso_code": "AW",
+            "country": "Aruba"
+        },
+        {
+            "iso_code": "AU",
+            "country": "Austrália"
+        },
+        {
+            "iso_code": "AZ",
+            "country": "Azerbaijão"
+        },
+        {
+            "iso_code": "BE",
+            "country": "Bélgica"
+        },
+        {
+            "iso_code": "BA",
+            "country": "Bósnia e Herzegovina"
+        },
+        {
+            "iso_code": "BS",
+            "country": "Baamas"
+        },
+        {
+            "iso_code": "BD",
+            "country": "Bangladeche"
+        },
+        {
+            "iso_code": "BH",
+            "country": "Barém"
+        },
+        {
+            "iso_code": "BB",
+            "country": "Barbados"
+        },
+        {
+            "iso_code": "BZ",
+            "country": "Belize"
+        },
+        {
+            "iso_code": "BJ",
+            "country": "Benim"
+        },
+        {
+            "iso_code": "BM",
+            "country": "Bermudas"
+        },
+        {
+            "iso_code": "BY",
+            "country": "Bielorrússia"
+        },
+        {
+            "iso_code": "MM",
+            "country": "Birmânia"
+        },
+        {
+            "iso_code": "BO",
+            "country": "Bolívia"
+        },
+        {
+            "iso_code": "BW",
+            "country": "Botsuana"
+        },
+        {
+            "iso_code": "BR",
+            "country": "Brasil"
+        },
+        {
+            "iso_code": "BN",
+            "country": "Brunei"
+        },
+        {
+            "iso_code": "BG",
+            "country": "Bulgária"
+        },
+        {
+            "iso_code": "BI",
+            "country": "Burúndi"
+        },
+        {
+            "iso_code": "BF",
+            "country": "Burquina Faso"
+        },
+        {
+            "iso_code": "BT",
+            "country": "Butão"
+        },
+        {
+            "iso_code": "CV",
+            "country": "Cabo Verde"
+        },
+        {
+            "iso_code": "CM",
+            "country": "Camarões"
+        },
+        {
+            "iso_code": "KH",
+            "country": "Camboja"
+        },
+        {
+            "iso_code": "CA",
+            "country": "Canadá"
+        },
+        {
+            "iso_code": "QA",
+            "country": "Catar"
+        },
+        {
+            "iso_code": "KZ",
+            "country": "Cazaquistão"
+        },
+        {
+            "iso_code": "TD",
+            "country": "Chade"
+        },
+        {
+            "iso_code": "CL",
+            "country": "Chile"
+        },
+        {
+            "iso_code": "CN",
+            "country": "China"
+        },
+        {
+            "iso_code": "CY",
+            "country": "Chipre"
+        },
+        {
+            "iso_code": "CO",
+            "country": "Colômbia"
+        },
+        {
+            "iso_code": "KM",
+            "country": "Comores"
+        },
+        {
+            "iso_code": "CG",
+            "country": "Congo-Brazzaville"
+        },
+        {
+            "iso_code": "CD",
+            "country": "Congo-Kinshasa"
+        },
+        {
+            "iso_code": "KP",
+            "country": "Coreia do Norte"
+        },
+        {
+            "iso_code": "KR",
+            "country": "Coreia do Sul"
+        },
+        {
+            "iso_code": "CR",
+            "country": "Costa Rica"
+        },
+        {
+            "iso_code": "CI",
+            "country": "Costa do Marfim"
+        },
+        {
+            "iso_code": "HR",
+            "country": "Croácia"
+        },
+        {
+            "iso_code": "CU",
+            "country": "Cuba"
+        },
+        {
+            "iso_code": "DK",
+            "country": "Dinamarca"
+        },
+        {
+            "iso_code": "DM",
+            "country": "Domínica"
+        },
+        {
+            "iso_code": "EG",
+            "country": "Egipto"
+        },
+        {
+            "iso_code": "AE",
+            "country": "Emiratos Árabes Unidos"
+        },
+        {
+            "iso_code": "EC",
+            "country": "Equador"
+        },
+        {
+            "iso_code": "ER",
+            "country": "Eritreia"
+        },
+        {
+            "iso_code": "SK",
+            "country": "Eslováquia"
+        },
+        {
+            "iso_code": "SI",
+            "country": "Eslovénia"
+        },
+        {
+            "iso_code": "ES",
+            "country": "Espanha"
+        },
+        {
+            "iso_code": "EE",
+            "country": "Estónia"
+        },
+        {
+            "iso_code": "US",
+            "country": "Estados Unidos"
+        },
+        {
+            "iso_code": "ET",
+            "country": "Etiópia"
+        },
+        {
+            "iso_code": "FO",
+            "country": "Faroé"
+        },
+        {
+            "iso_code": "FJ",
+            "country": "Fiji"
+        },
+        {
+            "iso_code": "PH",
+            "country": "Filipinas"
+        },
+        {
+            "iso_code": "FI",
+            "country": "Finlândia"
+        },
+        {
+            "iso_code": "FR",
+            "country": "França"
+        },
+        {
+            "iso_code": "GM",
+            "country": "Gâmbia"
+        },
+        {
+            "iso_code": "GA",
+            "country": "Gabão"
+        },
+        {
+            "iso_code": "GH",
+            "country": "Gana"
+        },
+        {
+            "iso_code": "GE",
+            "country": "Geórgia"
+        },
+        {
+            "iso_code": "GS",
+            "country": "Geórgia do Sul e Sandwich do Sul"
+        },
+        {
+            "iso_code": "GI",
+            "country": "Gibraltar"
+        },
+        {
+            "iso_code": "GR",
+            "country": "Grécia"
+        },
+        {
+            "iso_code": "GD",
+            "country": "Granada"
+        },
+        {
+            "iso_code": "GL",
+            "country": "Gronelândia"
+        },
+        {
+            "iso_code": "GP",
+            "country": "Guadalupe"
+        },
+        {
+            "iso_code": "GU",
+            "country": "Guame"
+        },
+        {
+            "iso_code": "GT",
+            "country": "Guatemala"
+        },
+        {
+            "iso_code": "GY",
+            "country": "Guiana"
+        },
+        {
+            "iso_code": "GF",
+            "country": "Guiana Francesa"
+        },
+        {
+            "iso_code": "GN",
+            "country": "Guiné"
+        },
+        {
+            "iso_code": "GQ",
+            "country": "Guiné Equatorial"
+        },
+        {
+            "iso_code": "GW",
+            "country": "Guiné-Bissau"
+        },
+        {
+            "iso_code": "HT",
+            "country": "Haiti"
+        },
+        {
+            "iso_code": "HN",
+            "country": "Honduras"
+        },
+        {
+            "iso_code": "HK",
+            "country": "Hong Kong"
+        },
+        {
+            "iso_code": "HU",
+            "country": "Hungria"
+        },
+        {
+            "iso_code": "YE",
+            "country": "Iémen"
+        },
+        {
+            "iso_code": "BV",
+            "country": "Ilha Bouvet"
+        },
+        {
+            "iso_code": "NF",
+            "country": "Ilha Norfolk"
+        },
+        {
+            "iso_code": "CX",
+            "country": "Ilha do Natal"
+        },
+        {
+            "iso_code": "KY",
+            "country": "Ilhas Caimão"
+        },
+        {
+            "iso_code": "CK",
+            "country": "Ilhas Cook"
+        },
+        {
+            "iso_code": "FK",
+            "country": "Ilhas Falkland"
+        },
+        {
+            "iso_code": "HM",
+            "country": "Ilhas Heard e McDonald"
+        },
+        {
+            "iso_code": "MH",
+            "country": "Ilhas Marshall"
+        },
+        {
+            "iso_code": "UM",
+            "country": "Ilhas Menores Distantes dos Estados Unidos"
+        },
+        {
+            "iso_code": "SB",
+            "country": "Ilhas Salomão"
+        },
+        {
+            "iso_code": "TC",
+            "country": "Ilhas Turcas e Caicos"
+        },
+        {
+            "iso_code": "VI",
+            "country": "Ilhas Virgens Americanas"
+        },
+        {
+            "iso_code": "VG",
+            "country": "Ilhas Virgens Britânicas"
+        },
+        {
+            "iso_code": "CC",
+            "country": "Ilhas dos Cocos"
+        },
+        {
+            "iso_code": "ID",
+            "country": "Indonésia"
+        },
+        {
+            "iso_code": "IR",
+            "country": "Irão"
+        },
+        {
+            "iso_code": "IQ",
+            "country": "Iraque"
+        },
+        {
+            "iso_code": "IE",
+            "country": "Irlanda"
+        },
+        {
+            "iso_code": "IS",
+            "country": "Islândia"
+        },
+        {
+            "iso_code": "IL",
+            "country": "Israel"
+        },
+        {
+            "iso_code": "IT",
+            "country": "Itália"
+        },
+        {
+            "iso_code": "JM",
+            "country": "Jamaica"
+        },
+        {
+            "iso_code": "JP",
+            "country": "Japão"
+        },
+        {
+            "iso_code": "DJ",
+            "country": "Jibuti"
+        },
+        {
+            "iso_code": "JO",
+            "country": "Jordânia"
+        },
+        {
+            "iso_code": "YU",
+            "country": "Jugoslávia"
+        },
+        {
+            "iso_code": "KW",
+            "country": "Kuwait"
+        },
+        {
+            "iso_code": "LB",
+            "country": "Líbano"
+        },
+        {
+            "iso_code": "LY",
+            "country": "Líbia"
+        },
+        {
+            "iso_code": "LA",
+            "country": "Laos"
+        },
+        {
+            "iso_code": "LS",
+            "country": "Lesoto"
+        },
+        {
+            "iso_code": "LV",
+            "country": "Letónia"
+        },
+        {
+            "iso_code": "LR",
+            "country": "Libéria"
+        },
+        {
+            "iso_code": "LI",
+            "country": "Listenstaine"
+        },
+        {
+            "iso_code": "LT",
+            "country": "Lituânia"
+        },
+        {
+            "iso_code": "LU",
+            "country": "Luxemburgo"
+        },
+        {
+            "iso_code": "MX",
+            "country": "México"
+        },
+        {
+            "iso_code": "MC",
+            "country": "Mónaco"
+        },
+        {
+            "iso_code": "MO",
+            "country": "Macau"
+        },
+        {
+            "iso_code": "MK",
+            "country": "Macedónia"
+        },
+        {
+            "iso_code": "MG",
+            "country": "Madagáscar"
+        },
+        {
+            "iso_code": "MY",
+            "country": "Malásia"
+        },
+        {
+            "iso_code": "MW",
+            "country": "Malávi"
+        },
+        {
+            "iso_code": "MV",
+            "country": "Maldivas"
+        },
+        {
+            "iso_code": "ML",
+            "country": "Mali"
+        },
+        {
+            "iso_code": "MT",
+            "country": "Malta"
+        },
+        {
+            "iso_code": "MP",
+            "country": "Marianas do Norte"
+        },
+        {
+            "iso_code": "MA",
+            "country": "Marrocos"
+        },
+        {
+            "iso_code": "MQ",
+            "country": "Martinica"
+        },
+        {
+            "iso_code": "MU",
+            "country": "Maurícia"
+        },
+        {
+            "iso_code": "MR",
+            "country": "Mauritânia"
+        },
+        {
+            "iso_code": "YT",
+            "country": "Mayotte"
+        },
+        {
+            "iso_code": "FM",
+            "country": "Micronésia"
+        },
+        {
+            "iso_code": "MZ",
+            "country": "Moçambique"
+        },
+        {
+            "iso_code": "MD",
+            "country": "Moldávia"
+        },
+        {
+            "iso_code": "MN",
+            "country": "Mongólia"
+        },
+        {
+            "iso_code": "MS",
+            "country": "Monserrate"
+        },
+        {
+            "iso_code": "NE",
+            "country": "Níger"
+        },
+        {
+            "iso_code": "NA",
+            "country": "Namíbia"
+        },
+        {
+            "iso_code": "NR",
+            "country": "Nauru"
+        },
+        {
+            "iso_code": "NP",
+            "country": "Nepal"
+        },
+        {
+            "iso_code": "NI",
+            "country": "Nicarágua"
+        },
+        {
+            "iso_code": "NG",
+            "country": "Nigéria"
+        },
+        {
+            "iso_code": "NU",
+            "country": "Niue"
+        },
+        {
+            "iso_code": "NO",
+            "country": "Noruega"
+        },
+        {
+            "iso_code": "NC",
+            "country": "Nova Caledónia"
+        },
+        {
+            "iso_code": "NZ",
+            "country": "Nova Zelândia"
+        },
+        {
+            "iso_code": "OM",
+            "country": "Omã"
+        },
+        {
+            "iso_code": "NL",
+            "country": "Países Baixos"
+        },
+        {
+            "iso_code": "PW",
+            "country": "Palau"
+        },
+        {
+            "iso_code": "PA",
+            "country": "Panamá"
+        },
+        {
+            "iso_code": "PG",
+            "country": "Papua-Nova Guiné"
+        },
+        {
+            "iso_code": "PK",
+            "country": "Paquistão"
+        },
+        {
+            "iso_code": "PY",
+            "country": "Paraguai"
+        },
+        {
+            "iso_code": "PE",
+            "country": "Peru"
+        },
+        {
+            "iso_code": "PN",
+            "country": "Pitcairn"
+        },
+        {
+            "iso_code": "PL",
+            "country": "Polónia"
+        },
+        {
+            "iso_code": "PF",
+            "country": "Polinésia Francesa"
+        },
+        {
+            "iso_code": "PR",
+            "country": "Porto Rico"
+        },
+        {
+            "iso_code": "PT",
+            "country": "Portugal"
+        },
+        {
+            "iso_code": "KE",
+            "country": "Quénia"
+        },
+        {
+            "iso_code": "KG",
+            "country": "Quirguizistão"
+        },
+        {
+            "iso_code": "KI",
+            "country": "Quiribáti"
+        },
+        {
+            "iso_code": "RU",
+            "country": "Rússia"
+        },
+        {
+            "iso_code": "GB",
+            "country": "Reino Unido"
+        },
+        {
+            "iso_code": "CF",
+            "country": "República Centro-Africana"
+        },
+        {
+            "iso_code": "CZ",
+            "country": "República Checa"
+        },
+        {
+            "iso_code": "DO",
+            "country": "República Dominicana"
+        },
+        {
+            "iso_code": "RE",
+            "country": "Reunião"
+        },
+        {
+            "iso_code": "RO",
+            "country": "Roménia"
+        },
+        {
+            "iso_code": "RW",
+            "country": "Ruanda"
+        },
+        {
+            "iso_code": "KN",
+            "country": "São Cristóvão e Neves"
+        },
+        {
+            "iso_code": "SM",
+            "country": "São Marinho"
+        },
+        {
+            "iso_code": "PM",
+            "country": "São Pedro e Miquelon"
+        },
+        {
+            "iso_code": "ST",
+            "country": "São Tomé e Príncipe"
+        },
+        {
+            "iso_code": "VC",
+            "country": "São Vicente e Granadinas"
+        },
+        {
+            "iso_code": "SY",
+            "country": "Síria"
+        },
+        {
+            "iso_code": "SV",
+            "country": "Salvador"
+        },
+        {
+            "iso_code": "WS",
+            "country": "Samoa"
+        },
+        {
+            "iso_code": "AS",
+            "country": "Samoa Americana"
+        },
+        {
+            "iso_code": "SH",
+            "country": "Santa Helena"
+        },
+        {
+            "iso_code": "LC",
+            "country": "Santa Lúcia"
+        },
+        {
+            "iso_code": "EH",
+            "country": "Sara Ocidental"
+        },
+        {
+            "iso_code": "SC",
+            "country": "Seicheles"
+        },
+        {
+            "iso_code": "SN",
+            "country": "Senegal"
+        },
+        {
+            "iso_code": "SL",
+            "country": "Serra Leoa"
+        },
+        {
+            "iso_code": "SG",
+            "country": "Singapura"
+        },
+        {
+            "iso_code": "SO",
+            "country": "Somália"
+        },
+        {
+            "iso_code": "LK",
+            "country": "Sri Lanca"
+        },
+        {
+            "iso_code": "SE",
+            "country": "Suécia"
+        },
+        {
+            "iso_code": "CH",
+            "country": "Suíça"
+        },
+        {
+            "iso_code": "SZ",
+            "country": "Suazilândia"
+        },
+        {
+            "iso_code": "SD",
+            "country": "Sudão"
+        },
+        {
+            "iso_code": "SR",
+            "country": "Suriname"
+        },
+        {
+            "iso_code": "SJ",
+            "country": "Svalbard e Jan Mayen"
+        },
+        {
+            "iso_code": "TH",
+            "country": "Tailândia"
+        },
+        {
+            "iso_code": "TW",
+            "country": "Taiwan"
+        },
+        {
+            "iso_code": "TJ",
+            "country": "Tajiquistão"
+        },
+        {
+            "iso_code": "TZ",
+            "country": "Tanzânia"
+        },
+        {
+            "iso_code": "IO",
+            "country": "Território Britânico do Oceano Índico"
+        },
+        {
+            "iso_code": "TF",
+            "country": "Territórios Austrais Franceses"
+        },
+        {
+            "iso_code": "TL",
+            "country": "Timor Leste"
+        },
+        {
+            "iso_code": "TG",
+            "country": "Togo"
+        },
+        {
+            "iso_code": "TK",
+            "country": "Tokelau"
+        },
+        {
+            "iso_code": "TO",
+            "country": "Tonga"
+        },
+        {
+            "iso_code": "TT",
+            "country": "Trindade e Tobago"
+        },
+        {
+            "iso_code": "TN",
+            "country": "Tunísia"
+        },
+        {
+            "iso_code": "TM",
+            "country": "Turquemenistão"
+        },
+        {
+            "iso_code": "TR",
+            "country": "Turquia"
+        },
+        {
+            "iso_code": "TV",
+            "country": "Tuvalu"
+        },
+        {
+            "iso_code": "UA",
+            "country": "Ucrânia"
+        },
+        {
+            "iso_code": "UG",
+            "country": "Uganda"
+        },
+        {
+            "iso_code": "UY",
+            "country": "Uruguai"
+        },
+        {
+            "iso_code": "UZ",
+            "country": "Usbequistão"
+        },
+        {
+            "iso_code": "VU",
+            "country": "Vanuatu"
+        },
+        {
+            "iso_code": "VA",
+            "country": "Vaticano"
+        },
+        {
+            "iso_code": "VE",
+            "country": "Venezuela"
+        },
+        {
+            "iso_code": "VN",
+            "country": "Vietname"
+        },
+        {
+            "iso_code": "WF",
+            "country": "Wallis e Futuna"
+        },
+        {
+            "iso_code": "ZM",
+            "country": "Zâmbia"
+        },
+        {
+            "iso_code": "ZW",
+            "country": "Zimbábue"
+        }
+    ]
+}
